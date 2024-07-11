@@ -1,5 +1,5 @@
-#commands one by one on terminal 
-#--------------------------------------------------------
+# commands one by one on terminal 
+# --------------------------------------------------------
 
 # sudo apt-get update
 # sudo apt-get install -y ca-certificates curl gnupg
